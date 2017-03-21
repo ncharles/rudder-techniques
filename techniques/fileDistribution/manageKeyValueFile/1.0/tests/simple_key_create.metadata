@@ -1,0 +1,7 @@
+{
+  "init": "simple_key_create.cf",
+  "directive": "simple_key_replace.json",
+  "check": "simple_key_replace.rb", 
+  "compliance": 100
+}
+
